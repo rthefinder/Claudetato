@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  claudetato:
+    build: .
+    environment:
+      - SOLANA_RPC_URL=https://api.devnet.solana.com
+      - SOLANA_NETWORK=devnet
+      - EXPERIMENT_MODE=dry-run
+      - SENSOR_SOURCE=mock
+      - FEE_WALLET=${FEE_WALLET:-11111111111111111111111111111112}
+      - FEE_TOKEN_MINT=${FEE_TOKEN_MINT:-11111111111111111111111111111112}
+      - LOG_LEVEL=info
+      - EPOCH_INTERVAL_MINUTES=5
+    volumes:
+      - ./reports:/app/reports
+      - ./logs:/app/logs
+    restart: unless-stopped
