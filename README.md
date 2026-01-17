@@ -1,4 +1,10 @@
-# Claude Potato ($claudetato)
+# Claude Potato - Claudetato
+
+https://x.com/claudetato
+
+![claudetatologo](https://github.com/user-attachments/assets/c6434ce6-5d11-49d3-981e-927849696cfa)
+
+
 
 An open-source, deterministic AI experiment on Solana.
 
@@ -66,6 +72,7 @@ pnpm compute-health
 ## Project Overview
 
 ### The Experiment
+<img width="1024" height="341" alt="claudebanneretato" src="https://github.com/user-attachments/assets/b6b09d0f-b2ba-4772-80b4-42d1bba9afe6" />
 
 1. **Physical Setup**: A potato planted in monitored soil
 2. **Sensors**: Temperature, humidity, soil moisture, elapsed time
