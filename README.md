@@ -1,7 +1,5 @@
 # Claude Potato - Claudetato
 
-CA: 2mpdtniP9J69mr1nEfx9MfZ5hCYWRYtjTta6VZfNpump
-
 https://x.com/claudetato
 
 ![claudetatologo](https://github.com/user-attachments/assets/c6434ce6-5d11-49d3-981e-927849696cfa)
